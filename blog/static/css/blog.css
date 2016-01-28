@@ -1,7 +1,7 @@
 
 
 .page-header {
-    background-color: #CC6A49;
+    background-color:  #9f9ea4; /*#afd1d1;*/ /*#CC6A49;*/
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -17,7 +17,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Syncopate';
 }
 
 .date {
